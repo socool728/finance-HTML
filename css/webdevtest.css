@@ -1,0 +1,13 @@
+img {
+  width: 100%;
+}
+
+body {
+  font-family: Arial;
+}
+
+.t_title {
+  font-size: 18px;
+  font-style: bold;
+  color: #000000;
+}
